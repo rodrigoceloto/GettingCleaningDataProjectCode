@@ -7,24 +7,23 @@ This dataset has 3 "id variables" of class factor:
 * subject
 
 This dataset has 66 "id variables" of class numeric: 
-variablename,units
+variablename	units
 
-#variablename	units
-tBodyAcc-mean()-X	g
-tBodyAcc-mean()-Y	g
-tBodyAcc-mean()-Z	g
-tBodyAcc-std()-X	g
-tBodyAcc-std()-Y	g
-tBodyAcc-std()-Z	g
-tGravityAcc-mean()-X	g
-tGravityAcc-mean()-Y	g
-tGravityAcc-mean()-Z	g
-tGravityAcc-std()-X	g
-tGravityAcc-std()-Y	g
-tGravityAcc-std()-Z	g
-tBodyAccJerk-mean()-X	g
-tBodyAccJerk-mean()-Y	g
-tBodyAccJerk-mean()-Z	g
+* tBodyAcc-mean()-X	g
+* tBodyAcc-mean()-Y	g
+* tBodyAcc-mean()-Z	g
+* tBodyAcc-std()-X	g
+* tBodyAcc-std()-Y	g
+* tBodyAcc-std()-Z	g
+* tGravityAcc-mean()-X	g
+* tGravityAcc-mean()-Y	g
+* tGravityAcc-mean()-Z	g
+* tGravityAcc-std()-X	g
+* tGravityAcc-std()-Y	g
+* tGravityAcc-std()-Z	g
+* tBodyAccJerk-mean()-X	g
+* tBodyAccJerk-mean()-Y	g
+* tBodyAccJerk-mean()-Z	g
 tBodyAccJerk-std()-X	g
 tBodyAccJerk-std()-Y	g
 tBodyAccJerk-std()-Z	g
