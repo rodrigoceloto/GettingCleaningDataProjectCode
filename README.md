@@ -6,6 +6,6 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 Unzipping this file creates a directory called "UCI HAR Dataset", wich should be the working directory for running this code.
 
-The unzipping process will create two subdirectories (test and train) where some of files will be stored.
+The unzipping process also creates two subdirectories (test and train) where some of files will be stored.
 
 The code will create a txt file called newdataset.txt that will be written in the working directory "UCI HAR Dataset".
