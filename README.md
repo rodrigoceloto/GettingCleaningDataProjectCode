@@ -13,8 +13,8 @@ The code will create a txt file called newdataset.txt that will be written in th
 
 ### Code book
 
-The code book is in the file CodeBook.md
+It is available on file CodeBook.md
 
 ### Instruction list
 
-The instruction can be found in the file run_analysis.R
+It is available on file run_analysis.R
