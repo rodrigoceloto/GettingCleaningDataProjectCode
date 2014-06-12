@@ -1,12 +1,20 @@
 #CodeBook of tidy dataset "newdataset.txt"
 
+## Instruction list
+The instruction of of how this newdataset file is the file run_analysi.R
 
-This dataset has 3 "id variables" of class factor: 
+## Dataset variables
+
+This dataset has 3 "id variables": 
 * activitycode
 * activityname
 * subject
 
-This dataset has 66 "measurement" variable and their units (g,radians/second)
+This dataset has 66 "measurement" variables. 
+
+Thee measurement variables values were obtained by mean agregation by activity and subject from the original data.
+
+Below is their list of variables and their respective unit (variable name / unit)
 
 *  tBodyAcc-mean()-X  /  g
 *  tBodyAcc-mean()-Y  /  g
