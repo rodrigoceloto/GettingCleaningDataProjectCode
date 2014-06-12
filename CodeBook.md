@@ -5,10 +5,15 @@ The instruction of of how this newdataset file is the file run_analysi.R
 
 ## Dataset variables
 
-This dataset has 3 "id variables": 
+### Key or dimensional variables
+
+This dataset has 3 key (Id) variables:
+
 * activitycode
 * activityname
 * subject
+
+### Measurment variables
 
 This dataset has 66 "measurement" variables. 
 
