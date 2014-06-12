@@ -1,7 +1,7 @@
 #CodeBook of tidy dataset "newdataset.txt"
 
 ## Instruction list
-The instruction of of how this newdataset file is the file run_analysi.R
+The instruction of how this newdataset was formatted can be found on run_analysi.R
 
 ## Dataset variables
 
@@ -13,7 +13,7 @@ This dataset has 3 key (Id) variables:
 * activityname
 * subject
 
-### Measurment variables
+### Measurement variables
 
 This dataset has 66 "measurement" variables. 
 
