@@ -1,7 +1,9 @@
 #CodeBook of tidy dataset "newdataset.txt"
 
 ## Instruction list
-The instruction of how this newdataset was formatted can be found on run_analysi.R
+This file is a tidy dataset built from original data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
+The instruction can be found in the file run_analysis.R
 
 ## Dataset variables
 
