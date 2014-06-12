@@ -10,7 +10,7 @@ colnames(features)<-c("colnumber","variablename")
 ##Test dataset
 test<-read.table("test/X_test.txt")
 
-##Trainning dataset
+##Training dataset
 train<-read.table("train/X_train.txt")
 
 ##Binds the training and the test sets to create one data set
