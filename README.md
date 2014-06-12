@@ -10,4 +10,7 @@ The code will create a txt file called newdataset.txt that will be written in th
 
 ### Code book
 
-The code book is in the file
+The code book is in the file CodeBook.md
+
+### Instructions 
+
